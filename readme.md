@@ -1,5 +1,11 @@
 1. create dir
 2. run 'npm init'
 3. run 'npm install --save'
-3. run 'npm install --save express'
-4. create index.js 
+4. run 'npm install --save express'
+5. create index.js 
+6. require express/server
+7. run localhost
+8. created index.html
+9. change app.get to point to index.html
+10. run 'npm install --save socket.io'
+11. require socket.io
