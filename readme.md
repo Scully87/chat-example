@@ -9,3 +9,7 @@
 9. change app.get to point to index.html
 10. run 'npm install --save socket.io'
 11. require socket.io
+12. 
+
+
+====git ignore file for node modules====
