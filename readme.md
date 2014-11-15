@@ -1,15 +1,32 @@
-1. create dir
-2. run 'npm init'
-3. run 'npm install --save'
-4. run 'npm install --save express'
-5. create index.js 
-6. require express/server
-7. run localhost
-8. created index.html
-9. change app.get to point to index.html
-10. run 'npm install --save socket.io'
-11. require socket.io
-12. 
+Chat Example
+===================
 
+###A simple Chat program where two you can chat across two browsers in the same program.
 
-====git ignore file for node modules====
+####Technologies Used:
+
+  - Node
+  - Express
+  - Socket IO
+  - HTML
+  - CSS
+
+#####To Do list:
+  - [x] Create Chat in browsers
+
+How to use
+-----------
+
+Clone the repository:
+```shell
+$ git clone git@github.com:scully87/chat-example.git
+```
+Change into the directory:
+```shell
+$ cd chat-example
+```
+
+Open locally from command line:
+```shell
+$ open index.html
+```
