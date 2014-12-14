@@ -25,6 +25,10 @@ Change into the directory:
 ```shell
 $ cd chat-example
 ```
+Install:
+```shell
+$ npm install
+```
 
 Open locally from command line:
 ```shell
